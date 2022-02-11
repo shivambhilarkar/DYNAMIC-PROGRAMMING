@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/0-1 Knapsack Problems/0-1 Knapsack Problems.iml" filepath="$PROJECT_DIR$/0-1 Knapsack Problems/0-1 Knapsack Problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming.iml" filepath="$PROJECT_DIR$/Dynamic Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Longest Common Subsequence/Longest Common Subsequence.iml" filepath="$PROJECT_DIR$/Longest Common Subsequence/Longest Common Subsequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Longest Increasing Subsequence/Longest Increasing Subsequence.iml" filepath="$PROJECT_DIR$/Longest Increasing Subsequence/Longest Increasing Subsequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Unbounded Knapsack Problems/Unbounded Knapsack Problems.iml" filepath="$PROJECT_DIR$/Unbounded Knapsack Problems/Unbounded Knapsack Problems.iml" />
+    </modules>
+  </component>
+</project>
