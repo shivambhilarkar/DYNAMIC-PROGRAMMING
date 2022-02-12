@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/0-1 Knapsack Problems/0-1 Knapsack Problems.iml" filepath="$PROJECT_DIR$/0-1 Knapsack Problems/0-1 Knapsack Problems.iml" />
       <module fileurl="file://$PROJECT_DIR$/Dynamic Programming.iml" filepath="$PROJECT_DIR$/Dynamic Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fibonaci Numbers/Fibonaci Numbers.iml" filepath="$PROJECT_DIR$/Fibonaci Numbers/Fibonaci Numbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/Longest Common Subsequence/Longest Common Subsequence.iml" filepath="$PROJECT_DIR$/Longest Common Subsequence/Longest Common Subsequence.iml" />
       <module fileurl="file://$PROJECT_DIR$/Longest Increasing Subsequence/Longest Increasing Subsequence.iml" filepath="$PROJECT_DIR$/Longest Increasing Subsequence/Longest Increasing Subsequence.iml" />
       <module fileurl="file://$PROJECT_DIR$/Unbounded Knapsack Problems/Unbounded Knapsack Problems.iml" filepath="$PROJECT_DIR$/Unbounded Knapsack Problems/Unbounded Knapsack Problems.iml" />
