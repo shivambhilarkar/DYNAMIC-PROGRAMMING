@@ -1,3 +1,5 @@
+package fibonaci_numbers;
+
 import java.util.Scanner;
 
 //There are n stairs, a person standing at the bottom wants to reach the top.

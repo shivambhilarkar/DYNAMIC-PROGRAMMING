@@ -1,3 +1,5 @@
+package longest_common_subsequence;
+
 import java.util.Scanner;
 
 //Given two strings ‘X’ and ‘Y’, find the length of the longest common substring.

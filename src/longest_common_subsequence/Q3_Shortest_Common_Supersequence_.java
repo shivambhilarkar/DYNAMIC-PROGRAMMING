@@ -1,3 +1,5 @@
+package longest_common_subsequence;
+
 import java.util.Scanner;
 
 public class Q3_Shortest_Common_Supersequence_ {

@@ -1,3 +1,5 @@
+package longest_common_subsequence;
+
 import java.util.Scanner;
 
 public class Q4_Min_No_of_Deletion_insertion_to_convert_a_to_b {

@@ -1,3 +1,5 @@
+package fibonaci_numbers;
+
 import java.util.Scanner;
 
 public class Q1_Fibonaci_Numbers_ {

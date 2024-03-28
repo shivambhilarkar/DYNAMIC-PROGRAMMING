@@ -1,3 +1,5 @@
+package knapsack_problem_0_1;
+
 import java.util.Scanner;
 
 //iven a set of non-negative integers, and a value sum,

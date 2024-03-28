@@ -1,3 +1,5 @@
+package knapsack_unbounded;
+
 import java.util.Scanner;
 
 //coin change I : maximum no of ways.

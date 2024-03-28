@@ -1,3 +1,5 @@
+package knapsack_problem_0_1;
+
 import java.util.Scanner;
 
 //Given a non-empty array nums containing only positive integers,

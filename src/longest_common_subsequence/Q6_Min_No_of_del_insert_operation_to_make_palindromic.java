@@ -1,3 +1,5 @@
+package longest_common_subsequence;
+
 import java.util.Scanner;
 
 //1.min no of insertion to make string palindromic.

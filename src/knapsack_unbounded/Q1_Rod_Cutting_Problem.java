@@ -1,3 +1,5 @@
+package knapsack_unbounded;
+
 import java.util.Scanner;
 
 //Given a rod of length n inches and an array of prices

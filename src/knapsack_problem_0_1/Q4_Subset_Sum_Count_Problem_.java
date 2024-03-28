@@ -1,3 +1,5 @@
+package knapsack_problem_0_1;
+
 import java.util.Scanner;
 
 //Given an array arr[] of length N and an integer X,
